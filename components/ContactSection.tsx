@@ -4,7 +4,7 @@ import { ArrowRight } from "lucide-react"
 
 export default function ContactSection() {
   return (
-    <section id="contact" className="max-w-7xl mx-auto mt-16 sm:mt-32">
+    <section id="contact" className="max-w-7xl mx-auto mt-16 sm:mt-32 px-4 sm:px-6 pb-16 sm:pb-32">
       <div className="grid sm:grid-cols-2 gap-8 sm:gap-16 items-start">
         <div className="space-y-8">
           <h2 className="text-3xl sm:text-4xl font-bold">Juan Carlos.</h2>
